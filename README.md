@@ -9,8 +9,7 @@ This project demonstrates an end-to-end ML workflow including model training, de
 # 🌐 Live Demo
 
 👉 **Click here to use the app:**
-🔗 https://your-live-demo-link.streamlit.app
-
+https://loanstatuslogesticmodel-tkc445l4nbywcbhnvqwfxi.streamlit.app/
 *(Replace the link above with your actual deployed app URL)*
 
 ---
