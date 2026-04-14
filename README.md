@@ -124,7 +124,7 @@ joblib
 # 📊 Input Features Used
 
 * Gender
-* Married
+* Married 
 * Dependents
 * Education
 * Self Employed
