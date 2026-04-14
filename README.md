@@ -15,7 +15,7 @@ https://loanstatuslogesticmodel-tkc445l4nbywcbhnvqwfxi.streamlit.app/
 
 # 📸 Application Screenshot
 
-![Loan Prediction App Screenshot](app_screenshot.png)
+![Loan Prediction App Screenshot](app_screenshot.png) 
 <img width="1888" height="825" alt="Screenshot 2026-04-13 122052" src="https://github.com/user-attachments/assets/ccacfe54-d151-432b-af04-3bfa0270241e" />
 
 
